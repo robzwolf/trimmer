@@ -21,3 +21,7 @@ npm run dev
 npm install
 npm run dev
 ```
+
+## Credits
+Loosely based on this tutorial.  
+https://betterprogramming.pub/upload-files-to-next-js-with-api-routes-839ce9f28430
