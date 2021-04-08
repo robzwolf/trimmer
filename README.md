@@ -3,6 +3,19 @@ Trim images using the [sharp().trim](https://sharp.pixelplumbing.com/api-resize#
 
 Hosted at https://trim.robbie.dev
 
+## API
+```
+https://trim.robbie.dev/api/trim
+```
+
+Send a `POST` request of `form-data` with key `image` and value the binary contents of the file you want to trim.
+
+### curl
+```bash
+curl --location --request POST 'https://trim.robbie.dev/api/trim' \
+--form 'image=@"/path/to/image.png"'
+```
+
 ## Quick Start
 
 ### Local Development
