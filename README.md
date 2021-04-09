@@ -1,4 +1,6 @@
 # Trimmer
+![Vercel](https://vercelbadge.vercel.app/api/robzwolf/trimmer)
+
 Trim images using the [sharp().trim](https://sharp.pixelplumbing.com/api-resize#trim) function.
 
 Hosted at https://trim.robbie.dev
